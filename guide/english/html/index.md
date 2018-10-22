@@ -14,7 +14,7 @@ HTML5 is the latest version, or specification, of HTML. The World Wide Web Conso
  
 HTML5 Introduces a host of semantic elements. Though we discussed HTML helped to provided meaning to our document, it wasn't until HTML5s' introduction of [semantic elements](#) that its' potential was realized.
 
-## A simple example of HTML Document
+## A simple [example](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements/) of HTML Document
 
 ```html
 <!DOCTYPE html>
