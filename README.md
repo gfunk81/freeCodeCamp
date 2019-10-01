@@ -45,6 +45,7 @@ Here are our six core certifications:
 - [Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
 - [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
 - [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+- [Responsive Web Design Projects](http://https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/)
   <br />
   <br />
   **Projects**: Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page, Personal Portfolio Webpage
@@ -56,7 +57,7 @@ Here are our six core certifications:
 - [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
 - [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
 - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
-- [Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+- [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
 - [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
 - [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 - [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
