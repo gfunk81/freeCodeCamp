@@ -32,7 +32,7 @@ You can pull in these test suites through [freeCodeCamp's CDN](https://cdn.freec
 
 Once you’ve earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or résumé. And when your prospective employers or freelance clients click that link, they’ll see a verified certification specific to you.
 
-The one exception to this is in the event that we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/academic-honesty). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
+The one exception to this is in the event that we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/academic-honesty). When we catch people unambiguously plagiarizing (*submitting other people's code or projects as their own without citation*), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
 
 Here are our six core certifications:
 
@@ -45,6 +45,7 @@ Here are our six core certifications:
 - [Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
 - [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
 - [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+- [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
   <br />
   <br />
   **Projects**: Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page, Personal Portfolio Webpage
@@ -60,6 +61,8 @@ Here are our six core certifications:
 - [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
 - [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 - [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+- [JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/)
+
   <br />
   <br />
   **Projects**: Palindrome Checker, Roman Numeral Converter, Caesar's Cipher, Telephone Number Validator, Cash Register
@@ -72,6 +75,7 @@ Here are our six core certifications:
 - [React](https://learn.freecodecamp.org/front-end-libraries/react)
 - [Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
 - [React and Redux](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
+- [Front End Library Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/)
   <br />
   <br />
   **Projects**: Random Quote Machine, Markdown Previewer, Drum Machine, JavaScript Calculator, Pomodoro Clock
@@ -80,6 +84,7 @@ Here are our six core certifications:
 
 - [Data Visualization with D3](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3)
 - [JSON APIs and Ajax](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax)
+- [Data Visualization Projects] (https://learn.freecodecamp.org/data-visualization/data-visualization-projects/)
   <br />
   <br />
   **Projects**: Bar Chart, Scatterplot Graph, Heat Map, Choropleth Map, Treemap Diagram
@@ -89,6 +94,7 @@ Here are our six core certifications:
 - [Managing Packages with Npm](https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm)
 - [Basic Node and Express](https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express)
 - [MongoDB and Mongoose](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose)
+- [Apis and Microservices Projects] (https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/)
   <br />
   <br />
   **Projects**: Timestamp Microservice, Request Header Parser, URL Shortener, Exercise Tracker, File Metadata Microservice
@@ -98,6 +104,7 @@ Here are our six core certifications:
 - [Information Security with HelmetJS](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs)
 - [Quality Assurance and Testing with Chai](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai)
 - [Advanced Node and Express](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express)
+-[Information Security and Quality Assurance Projects] (https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/)
   <br />
   <br />
   **Projects**: Metric-Imperial Converter, Issue Tracker, Personal Library, Stock Price Checker, Anonymous Message Board
